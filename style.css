@@ -1,0 +1,30 @@
+.botonSearch{
+    color: teal;
+    font-weight: bold;   
+    width: 100px;
+    background-color: rgb(247, 244, 242);
+    border-radius: 8px;
+    border-color: teal;
+    margin-bottom: 10px;
+    display: block;
+    
+}
+.botonPlus{
+    color: white; 
+    font-weight: bold;
+    background-color: turquoise;
+    border-radius:50%;
+    border-color: turquoise;
+    margin-bottom: 10px;
+      
+}
+.botomCreateAccount{
+    color: white;
+    width: 150px;
+    background-color: rgb(48, 107, 216);
+    border-color: black;
+    margin-bottom: 20 px;
+    box-shadow: black;
+    display: block;
+    margin-top: 20px;
+}
